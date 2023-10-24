@@ -1,10 +1,10 @@
 [
     {
-        "front": "Hinweis1/2",
-        "back": "Verwenden Sie den Befehl import um Pakete zu importieren"
+        "front": "Hinweis 1/2",
+        "back": "Verwenden Sie den Befehl import, um Pakete zu importieren"
     },
     {
-        "front": "Hinweis2/2",
-        "back": "Verwenden Sie den Befehl import Paketname as Rufname um Pakete mit Rufnamen zu importieren"
+        "front": "Hinweis 2/2",
+        "back": "Verwenden Sie den Befehl import Paketname as Rufname, um Pakete mit Rufnamen zu importieren"
     }
 ]
