@@ -1,0 +1,15 @@
+[
+    {
+        "front": "Hinweis 1/2",
+        "back": "Verwenden Sie for i in range(len(data)): als Schleife"
+    },
+    {
+        "front": "Hinweis 2/2",
+        "back": "Den um zwei Zeichen verkürtzten String erhalten Sie mit data[data.columns[-1]][i][:-2]"
+    },
+    {
+        "front": "Loesung",
+        "back": "for i in range(len(data)): data[data.columns[-1]][i] = data[data.columns[-1]][i][:-2]"
+    }
+
+]

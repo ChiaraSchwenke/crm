@@ -1,0 +1,15 @@
+[
+    {
+        "front": "Hinweis 1/2",
+        "back": "Verwenden Sie .drop_duplicates(subset = None, inplace = True) , um Duplikate eines Pandas Dataframe zu entfernen"
+    },
+    {
+        "front": "Hinweis 2/2",
+        "back": "Speichern Sie die Länge des Datensatzes vor und nach Entfernung der Duplikate und ermitteln Sie die Differenz"
+    },
+    {
+        "front": "Loesung",
+        "back": "data.drop_duplicates(subset = None, inplace = True) number_of_rows_new = len(data) number_of_duplicates = number_of_rows - number_of_rows_new"
+    }
+
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "front": "Hinweis 1/2",
+        "back": "Eine Verknüpfung erfolgt durch Hintereinanderschreiben: .funkt1().funkt2()"
+    },
+    {
+        "front": "Hinweis 2/2",
+        "back": "Verwenden Sie data.isnull().sum(), um die SUmme aller NULL-Werte im Datensatz zu erhalten"
+    },
+    {
+        "front": "Loesung",
+        "back": "print(round(100 * (data.isnull().sum()/len(data)), 2))"
+    }
+
+]
