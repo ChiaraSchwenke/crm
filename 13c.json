@@ -5,7 +5,7 @@
     },
     {
         "front": "Loesung",
-        "back": "data.to_csv("data_bereinigt.csv", sep=',')"
+        "back": "data.to_csv('data_bereinigt.csv', sep=',')"
     }
 
 ]
