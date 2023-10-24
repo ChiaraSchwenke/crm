@@ -1,0 +1,11 @@
+[
+    {
+        "front": "Hinweis 1/1",
+        "back": "Verwenden Sie den Befehl .head(), um die ersten Zeilen eines Pandas-Dataframe anzuzeigen"
+    },
+    {
+        "front": "Loesung",
+        "back": "data.head(5)"
+    }
+
+]
