@@ -9,7 +9,7 @@
     },
     {
         "front": "Loesung",
-        "back": "data.drop_duplicates(subset = None, inplace = True) number_of_rows_new = len(data) number_of_duplicates = number_of_rows - number_of_rows_new"
+        "back": "data.drop_duplicates(subset = None, inplace = True) ... number_of_rows_new = len(data)"
     }
 
 ]

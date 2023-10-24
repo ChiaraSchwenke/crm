@@ -1,0 +1,15 @@
+[
+    {
+        "front": "Hinweis 1/2",
+        "back": "Machen Sie sich hierfür klar, auf welche Daten Sie zugreifen wollen"
+    },
+    {
+        "front": "Hinweis 2/2",
+        "back": "Mit .idxmax() kann der Index des größten Wertes der Spalte eines Pandas Dataframes ermittelt werden"
+    },
+    {
+        "front": "Loesung",
+        "back": "print(data.loc[data.protein.idxmax()])"
+    }
+
+]

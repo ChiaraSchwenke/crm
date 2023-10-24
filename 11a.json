@@ -9,7 +9,7 @@
     },
     {
         "front": "Loesung",
-        "back": "import pandas as pd, \n \n import numpy as np, import seaborn as sns, import matplotlib.pyplot as plt"
+        "back": "import pandas as pd ... import matplotlib.pyplot as plt"
     }
 
 ]

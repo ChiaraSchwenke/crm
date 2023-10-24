@@ -1,0 +1,15 @@
+[
+    {
+        "front": "Hinweis 1/2",
+        "back": "Benutzen Sie für den Dichte-Plot eine Funktion aus dem Paket seaborn"
+    },
+    {
+        "front": "Hinweis 2/2",
+        "back": "Verwenden sie die FUnktion distplot aus dem Paket seaborn, die sie mit sns.distplot() aufrufen können"
+    },
+    {
+        "front": "Loesung",
+        "back": "sns.distplot(data.calories)"
+    }
+
+]
