@@ -1,7 +1,7 @@
 [
     {
         "front": "Hinweis 1/1",
-        "back": "Verwenden Sie den Befehl .columns um die Spaltennamen eins Pandas Dataframe anzuzeigen"
+        "back": "Verwenden Sie den Befehl .columns um die Spaltennamen eines Pandas Dataframe anzuzeigen"
     },
     {
         "front": "Loesung",
