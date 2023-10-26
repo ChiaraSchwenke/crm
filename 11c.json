@@ -9,7 +9,7 @@
     },
     {
         "front": "Loesung",
-        "back": "print('Dieser Datensatz hat', data.shape[0], 'Zeilen und', data.shape[0], 'Spalten')"
+        "back": "print('Dieser Datensatz hat', data.shape[0], 'Zeilen und', data.shape[1], 'Spalten')"
     }
 
 ]
