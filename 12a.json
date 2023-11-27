@@ -5,7 +5,7 @@
     },
     {
         "front": "Hinweis 2/2",
-        "back": "Verwenden Sie data.isnull().sum(), um die SUmme aller NULL-Werte im Datensatz zu erhalten"
+        "back": "Verwenden Sie data.isnull().sum(), um die Summe aller NULL-Werte im Datensatz zu erhalten"
     },
     {
         "front": "Loesung",
