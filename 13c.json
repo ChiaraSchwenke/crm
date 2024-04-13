@@ -1,10 +1,10 @@
 [
     {
         "front": "Hinweis 1/1",
-        "back": "Mit .to_csv() kann ein Pandas Dataframe abgespeichert werden"
+        "back": "Mit .to_csv() kann ein Pandas Dataframe abgespeichert werden."
     },
     {
-        "front": "Loesung",
+        "front": "Lösung",
         "back": "data.to_csv('data_bereinigt.csv', sep=',')"
     }
 
