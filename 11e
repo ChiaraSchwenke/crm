@@ -1,0 +1,11 @@
+[
+    {
+        "front": "Hinweis 1/1",
+        "back": "Mithilfe der Funktion rename können Sie die Spaltennamen eines Pandas Dataframes ändern."
+    },
+    {
+        "front": "Lösung",
+        "back": "data.rename(columns={"rating;;":"rating"}, inplace=True)"
+    }
+
+]
