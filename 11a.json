@@ -8,7 +8,7 @@
         "back": "Verwenden Sie den Befehl: import -Paketname- as -Rufname-. Mit diesem Befehl können Sie Pakete mit Rufname importieren."
     },
     {
-        "front": "Loesung",
+        "front": "Lösung",
         "back": "import pandas as pd"
     }
 
