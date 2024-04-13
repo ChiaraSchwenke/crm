@@ -12,7 +12,7 @@
         "back": "Über die Funktion astype(Datentyp) können Sie einen Datentyp festlegen."
     },
     {
-        "front": "Läsung",
+        "front": "Lösung",
         "back": "data['rating'] = data['rating'].str[:-2].astype(float)"
     }
 
