@@ -1,15 +1,15 @@
 [
     {
         "front": "Hinweis 1/2",
-        "back": "Machen Sie sich hierfür klar, auf welche Daten Sie zugreifen wollen"
+        "back": "Sie können zwei Spalten einfach mit '+' addieren."
     },
     {
         "front": "Hinweis 2/2",
-        "back": "Mit .idxmax() kann der Index des größten Wertes der Spalte eines Pandas Dataframes ermittelt werden"
+        "back": "data['carbs incl. sugar'] = ... + ... "
     },
     {
-        "front": "Loesung",
-        "back": "print(data.loc[data.protein.idxmax()])"
+        "front": "Lösung",
+        "back": "data['carbs incl. sugar'] = data['carbo'] + data['sugars']"
     }
 
 ]
