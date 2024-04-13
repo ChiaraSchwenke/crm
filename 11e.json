@@ -5,7 +5,7 @@
     },
     {
         "front": "Lösung",
-        "back": "data.rename(columns=rating;;":"rating",inplace=True)"
+        "back": " "
     }
 
 ]
