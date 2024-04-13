@@ -1,15 +1,15 @@
 [
     {
         "front": "Hinweis 1/2",
-        "back": "Verwenden Sie die Befehle .shape[0] und .shape[1], um die Anzahl an Zeilen und Spalten eines Pandas Dataframe zu erhalten"
+        "back": "Verwenden Sie die Befehle .shape[0] und .shape[1], um die Anzahl an Zeilen und Spalten eines Pandas Dataframe zu erhalten."
     },
     {
         "front": "Hinweis 2/2",
-        "back": "Kombinieren Sie Strings und Werte in einem print-statement mit Kommata"
+        "back": "Kombinieren Sie Strings und Werte in einem print-statement mit Kommata."
     },
     {
         "front": "Loesung",
-        "back": "print('Dieser Datensatz hat', data.shape[0], 'Zeilen und', data.shape[1], 'Spalten')"
+        "back": "print('Dieser Datensatz hat', data.shape[0], 'Zeilen und', data.shape[1], 'Spalten.')"
     }
 
 ]
