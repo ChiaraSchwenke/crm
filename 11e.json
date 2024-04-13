@@ -5,7 +5,7 @@
     },
     {
         "front": "Lösung",
-        "back": " "
+        "back": "data.rename(columns=...)"
     }
 
 ]
