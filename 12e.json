@@ -1,14 +1,14 @@
 [
     {
         "front": "Hinweis 1/2",
-        "back": "Mit .std() kann die Standardabweichung der Spalte eines Pandas Dataframe berechnet werden"
+        "back": "Mit .std() kann die Standardabweichung der Spalte eines Pandas Dataframe berechnet werden."
     },
     {
         "front": "Hinweis 2/2",
-        "back": "Verwenden sie eine if Bedingung in Kombination mit elif (else if) und else, um den zutreffenden Antwortsatz auszugeben"
+        "back": "Verwenden sie eine if-Bedingung in Kombination mit elif (else if) und else, um den zutreffenden Antwortsatz auszugeben."
     },
     {
-        "front": "Loesung",
+        "front": "Lösung",
         "back": "std_cal = round(data.calories.std(), 2) ... if std_cal > std_p and std_cal > std_carbs:"
     }
 
