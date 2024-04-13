@@ -5,7 +5,7 @@
     },
     {
         "front": "Hinweis 2/2",
-        "back": "Verwenden Sie den Befehl: import -Paketname- as -Rufname-. Mit diesem Befehl können Sie Pakete mit Rufname importieren."
+        "back": "Verwenden Sie den Befehl: import Paketname as Rufname. Mit diesem Befehl können Sie Pakete mit Rufname importieren."
     },
     {
         "front": "Lösung",
