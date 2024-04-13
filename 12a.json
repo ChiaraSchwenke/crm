@@ -5,10 +5,10 @@
     },
     {
         "front": "Hinweis 2/2",
-        "back": "Verwenden Sie data.isnull().sum(), um die Summe aller NULL-Werte im Datensatz zu erhalten"
+        "back": "Verwenden Sie data.isnull().sum(), um die Summe aller NULL-Werte im Datensatz zu erhalten."
     },
     {
-        "front": "Loesung",
+        "front": "Lösung",
         "back": "print(round(100 * (data.isnull().sum()/len(data)), 2))"
     }
 
